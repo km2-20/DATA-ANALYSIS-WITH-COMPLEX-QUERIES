@@ -37,5 +37,7 @@ This project demonstrates SQL concepts like:
 
 ## Outputs
 
-<img width="1061" height="621" alt="Image" src="https://github.com/user-attachments/assets/9b98e028-bb1c-4374-8040-2a5d5a28a217" />
+<img width="1061" height="621" alt="Image" src="https://github.com/user-attachments/assets/9b98e028-bb1c-4374-8040-2a5d5a28a217" /> 
+
+<img width="1081" height="612" alt="Image" src="https://github.com/user-attachments/assets/a2e456c5-dd97-402a-9242-32cf58c00e94" />
 
